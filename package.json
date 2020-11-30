@@ -1,0 +1,24 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsummerset/NPMTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsummerset/NPMTest/issues"
+  },
+  "homepage": "https://github.com/bsummerset/NPMTest#readme",
+  "dependencies": {
+    "randomcolor": "^0.6.2",
+    "uuid": "^8.3.1"
+  }
+}
